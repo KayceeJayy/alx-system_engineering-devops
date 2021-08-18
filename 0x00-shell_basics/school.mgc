@@ -1,2 +1,2 @@
-0 search/N SCHOOL
-!:mime STRING
+0 string search/N SCHOOL
+!:mime school
